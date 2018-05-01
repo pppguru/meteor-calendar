@@ -1,0 +1,17 @@
+.Login label {
+  display: block;
+  @extend %clearfix;
+}
+
+.google-login-button {
+  margin-top: 20px;
+  cursor: pointer;
+
+  img {
+    width: 290px;
+  }
+}
+
+.google-login-button:active {
+  opacity: 0.7;
+}

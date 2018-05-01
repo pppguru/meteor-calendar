@@ -1,0 +1,21 @@
+.navbar-default .navbar-nav > li > a.active,
+.navbar-default .navbar-nav > li > a.active:focus,
+.navbar-default .navbar-nav > li > a.active:hover {
+  color: #555;
+  background-color: #e7e7e7;
+}
+
+.navbar {
+    min-height: 80px !important;
+    background-color: white !important;
+}
+
+.nav-logo {
+    width: 50px;
+    height: auto;
+}
+
+.nav-logo-container {
+    padding: 0px 30px 0px 0px;
+}
+
